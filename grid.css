@@ -15,7 +15,7 @@ body {
 
 .cards {
   max-width: 960px;
-  margin: 50px auto;
+  margin: 100px auto;
   padding: 20px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
