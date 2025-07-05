@@ -14,7 +14,7 @@ body {
 }
 
 .cards {
-  max-width: 1440px;
+  max-width: 960px;
   margin: 50px auto;
   padding: 20px;
   display: grid;
