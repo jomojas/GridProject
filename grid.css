@@ -14,13 +14,13 @@ body {
 }
 
 .cards {
-  max-width: 960px;
+  max-width: 1440px;
   margin: 100px auto;
-  padding: 20px;
+  padding: 40px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, auto);
-  gap: 20px;
+  gap: 30px;
 }
 
 .card {
